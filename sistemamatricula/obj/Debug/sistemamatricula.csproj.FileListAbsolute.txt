@@ -1,0 +1,174 @@
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll.config
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\sistemamatricula.pdb
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe.config
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csc.rsp
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe.config
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\csi.rsp
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.AppContext.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Console.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe.config
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\vbc.rsp
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csprojAssemblyReference.cache
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CopyComplete
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.dll
+C:\Users\Carlo\Desktop\sistema matricula\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.pdb
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll.config
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\sistemamatricula.pdb
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe.config
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csc.rsp
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe.config
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\csi.rsp
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.AppContext.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Console.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Compression.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Pipes.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Claims.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Threading.Thread.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.ValueTuple.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe.config
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\vbc.rsp
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csprojAssemblyReference.cache
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CopyComplete
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.dll
+C:\Users\steve\Desktop\Adm.BasesDat\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.pdb
+F:\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll.config
+F:\sistemamatricula\sistemamatricula\bin\sistemamatricula.dll
+F:\sistemamatricula\sistemamatricula\bin\sistemamatricula.pdb
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csc.exe.config
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csc.rsp
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csi.exe.config
+F:\sistemamatricula\sistemamatricula\bin\roslyn\csi.rsp
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\sistemamatricula\sistemamatricula\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.AppContext.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Collections.Immutable.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Console.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.Process.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Compression.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.IO.Pipes.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Reflection.Metadata.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.AccessControl.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Claims.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Security.Principal.Windows.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Threading.Thread.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.ValueTuple.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XmlDocument.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe
+F:\sistemamatricula\sistemamatricula\bin\roslyn\vbc.exe.config
+F:\sistemamatricula\sistemamatricula\bin\roslyn\vbc.rsp
+F:\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe
+F:\sistemamatricula\sistemamatricula\bin\roslyn\VBCSCompiler.exe.config
+F:\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\sistemamatricula\sistemamatricula\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csprojAssemblyReference.cache
+F:\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CoreCompileInputs.cache
+F:\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.csproj.CopyComplete
+F:\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.dll
+F:\sistemamatricula\sistemamatricula\obj\Debug\sistemamatricula.pdb
